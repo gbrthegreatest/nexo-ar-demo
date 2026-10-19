@@ -7,7 +7,7 @@
      um aviso, evitando enviar mensagens para números que não são seus.
 */
 const CONFIG = {
-  whatsappNumber: '41984454299',
+  whatsappNumber: '5541984454299',
   whatsappMessage: 'Olá! Encontrei o site da Nexo Ar e gostaria de solicitar um orçamento.',
   googleBusinessUrl: ''
 };
